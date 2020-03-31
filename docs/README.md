@@ -10,8 +10,9 @@ home: true
 #   borderRadius: '1rem',
 # }
 bgImageStyle: {
-  height: '450px'
+  height: '350px'
 }
+bgImage: '/timg.jpeg'
 isShowTitleInHome: false
 actionText: Guide
 actionLink: /views/other/guide

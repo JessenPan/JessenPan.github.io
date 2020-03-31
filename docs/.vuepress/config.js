@@ -74,7 +74,7 @@ module.exports = {
         "lastUpdated": "Last Updated",
         "author": "jessenpan",
         "authorAvatar": "/avatar.jpeg",
-        "record": "xxxx",
+        // "record": "xxxx",
         "startYear": "2016",
         "valineConfig": {
           "appId": 'BsVKs2p9pfUprPE44Wzxk5kS-gzGzoHsz',// your appId
