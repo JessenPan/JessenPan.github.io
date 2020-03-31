@@ -75,7 +75,11 @@ module.exports = {
         "author": "jessenpan",
         "authorAvatar": "/avatar.jpeg",
         "record": "xxxx",
-        "startYear": "2016"
+        "startYear": "2016",
+        "valineConfig": {
+          "appId": 'BsVKs2p9pfUprPE44Wzxk5kS-gzGzoHsz',// your appId
+          "appKey": 'HQCDk4qBKVQGN52kmOdKmmOJ', // your appKey
+        }
     },
     "markdown": {
         "lineNumbers": true
