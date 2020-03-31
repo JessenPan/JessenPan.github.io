@@ -4,8 +4,7 @@ date: 2016-10-20
 tags:
 - css
 categories:
-- 技术
-
+- 计算机
 ---
 
 ## css盒模型:border-box content-box
@@ -14,8 +13,9 @@ categories:
 
 css的盒子模型包含了矩形的长度`width`和高度`height`.
 
+但是对于长度和宽度是否包含:`border-width`和`padding`,又分为:`border-box`和`content-box`这两种计算模型。
 
-但是对于长度和宽度是否包含:`border-width`和`padding`,又分为:`border-box`和`content-box`这两种计算模型
+<!-- more -->
 
 对于`border-box`模型:
 
@@ -23,7 +23,6 @@ css的盒子模型包含了矩形的长度`width`和高度`height`.
 
 对于`content-box`模型:
     盒子宽度=width
-<!--more-->
 
 对于同一副图片,使用不同的盒子模型设置width,效果如下:
 ![盒模](https://ws3.sinaimg.cn/large/006tNbRwgy1fp9xn98qtsj30dv0dvn11.jpg)
