@@ -32,6 +32,11 @@ module.exports = {
                 "icon": "reco-date"
             },
             {
+                "text":"关于我",
+                "icon":"reco-account",
+                "link":"/views/other/about"
+            },
+            {
                 "text": "联系我",
                 "icon": "reco-message",
                 "items": [
