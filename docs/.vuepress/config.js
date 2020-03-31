@@ -76,7 +76,7 @@ module.exports = {
         "search": true,
         "searchMaxSuggestions": 10,
         "sidebar": "auto",
-        "lastUpdated": "Last Updated",
+        // "lastUpdated": "Last Updated",
         "author": "jessenpan",
         "authorAvatar": "/avatar.jpeg",
         // "record": "xxxx",
