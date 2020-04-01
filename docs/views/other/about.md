@@ -3,4 +3,5 @@ isShowComments: false
 sidebar: false
 ---
 
-hello,world!
+我思故我在！
+

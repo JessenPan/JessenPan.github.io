@@ -1,6 +1,6 @@
 module.exports = {
     "title": "jessenpan\'s blog",
-    "description": "一直在奔跑...",
+    "description": "我思故我在",
     "dest": "public",
     "head": [
         [
