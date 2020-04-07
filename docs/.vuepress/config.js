@@ -1,6 +1,6 @@
 module.exports = {
     "title": "jessenpan\'s blog",
-    "description": "一直在奔跑...",
+    "description": "我思故我在",
     "dest": "public",
     "head": [
         [
@@ -16,6 +16,13 @@ module.exports = {
                 "name": "viewport",
                 "content": "width=device-width,initial-scale=1,user-scalable=no"
             }
+        ],
+        [
+          "meta",
+          {
+              "name": "google-site-verification",
+              "content": "F6dODSig1aD3qJdnHgutLfmlTHA-Pxj54I8HIdea_Ps"
+          }
         ]
     ],
     "theme": "reco",
