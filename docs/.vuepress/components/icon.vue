@@ -29,7 +29,7 @@ export default {
   list-style none
   a
     color inherit
-    &:hover 
+    &:hover,&:active,&:link,&:visited
       text-decoration none
   li
     display inline-block
