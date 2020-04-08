@@ -28,9 +28,9 @@ export default {
   padding 0
   list-style none
   a
-    color inherit 
-  a:hover 
-    text-decoration none
+    color inherit
+    &:hover 
+      text-decoration none
   li
     display inline-block
     width 80px
